@@ -1,0 +1,15 @@
+C:\Users\Hugo.zingmark\Desktop\VS\Tekken11\Tekken11\obj\Debug\net6.0\Tekken11.csproj.AssemblyReference.cache
+C:\Users\Hugo.zingmark\Desktop\VS\Tekken11\Tekken11\obj\Debug\net6.0\Tekken11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo.zingmark\Desktop\VS\Tekken11\Tekken11\obj\Debug\net6.0\Tekken11.AssemblyInfoInputs.cache
+C:\Users\Hugo.zingmark\Desktop\VS\Tekken11\Tekken11\obj\Debug\net6.0\Tekken11.AssemblyInfo.cs
+C:\Users\Hugo.zingmark\Desktop\VS\Tekken11\Tekken11\obj\Debug\net6.0\Tekken11.csproj.CoreCompileInputs.cache
+C:\Users\Hugo.zingmark\Desktop\VS\Tekken11\Tekken11\bin\Debug\net6.0\Tekken11.exe
+C:\Users\Hugo.zingmark\Desktop\VS\Tekken11\Tekken11\bin\Debug\net6.0\Tekken11.deps.json
+C:\Users\Hugo.zingmark\Desktop\VS\Tekken11\Tekken11\bin\Debug\net6.0\Tekken11.runtimeconfig.json
+C:\Users\Hugo.zingmark\Desktop\VS\Tekken11\Tekken11\bin\Debug\net6.0\Tekken11.dll
+C:\Users\Hugo.zingmark\Desktop\VS\Tekken11\Tekken11\bin\Debug\net6.0\Tekken11.pdb
+C:\Users\Hugo.zingmark\Desktop\VS\Tekken11\Tekken11\obj\Debug\net6.0\Tekken11.dll
+C:\Users\Hugo.zingmark\Desktop\VS\Tekken11\Tekken11\obj\Debug\net6.0\refint\Tekken11.dll
+C:\Users\Hugo.zingmark\Desktop\VS\Tekken11\Tekken11\obj\Debug\net6.0\Tekken11.pdb
+C:\Users\Hugo.zingmark\Desktop\VS\Tekken11\Tekken11\obj\Debug\net6.0\Tekken11.genruntimeconfig.cache
+C:\Users\Hugo.zingmark\Desktop\VS\Tekken11\Tekken11\obj\Debug\net6.0\ref\Tekken11.dll
